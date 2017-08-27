@@ -4,8 +4,11 @@
 }
 h1, p {
   		color: DarkSlateGray;
+      background-color: Gray;
 }
 p {
   font-size: 18px;
+  color: #FF3B6A;
+  background-color: rgb(255, 206, 76);
 }
 
