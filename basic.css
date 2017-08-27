@@ -1,1 +1,11 @@
+/* Created 08/26/2017 */
+* {
+  font-family: Georgia;
+}
+h1, p {
+  		color: DarkSlateGray;
+}
+p {
+  font-size: 18px;
+}
 
