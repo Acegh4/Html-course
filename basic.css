@@ -1,14 +1,21 @@
 /* Created 08/26/2017 */
 * {
   font-family: Georgia;
-}
+  }
 h1, p {
   		color: DarkSlateGray;
       background-color: Gray;
-}
+       }
 p {
   font-size: 18px;
   color: #FF3B6A;
   background-color: rgb(255, 206, 76);
-}
+  }
+h2 {
+  color: hsl(350, 50%, 50%);
+   }
+h3 {
+  color: rgb(2, 93, 140);
+  color: rbga(2, 93, 140, 0.8);
+   }
 
